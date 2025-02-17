@@ -10,7 +10,7 @@ sock.bind((SERVER_HOST, SERVER_PORT))
 
 users = {}  
 
-print(f"UDP 服务器正在运行 {SERVER_HOST}:{SERVER_PORT}...")
+print(f"UDP server on {SERVER_HOST}:{SERVER_PORT}...")
 
 def handle_client():
     while True:
