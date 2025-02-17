@@ -17,8 +17,8 @@ A lightweight, **multi-user chat system** built on **UDP**, featuring **reliable
 ## Installation & Setup  
 ### 1️. Clone the Repository  
 ```bash
-git clone https://github.com/ZoExOr/UDP-Reliable-Chat.git
-cd UDP-Reliable-Chat
+git clone https://github.com/ZoExOr/UDP-Based-Reliable-Chat-Client.git
+cd UDP-Based-Reliable-Chat-Client
 ```
 
 ### 2️. Run the Server  
